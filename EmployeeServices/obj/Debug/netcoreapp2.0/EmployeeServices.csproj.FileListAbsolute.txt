@@ -1,0 +1,10 @@
+C:\Users\rsxv79\source\repos\EmployeeServices\EmployeeServices\bin\Debug\netcoreapp2.0\EmployeeServices.deps.json
+C:\Users\rsxv79\source\repos\EmployeeServices\EmployeeServices\bin\Debug\netcoreapp2.0\EmployeeServices.runtimeconfig.json
+C:\Users\rsxv79\source\repos\EmployeeServices\EmployeeServices\bin\Debug\netcoreapp2.0\EmployeeServices.runtimeconfig.dev.json
+C:\Users\rsxv79\source\repos\EmployeeServices\EmployeeServices\bin\Debug\netcoreapp2.0\EmployeeServices.dll
+C:\Users\rsxv79\source\repos\EmployeeServices\EmployeeServices\bin\Debug\netcoreapp2.0\EmployeeServices.pdb
+C:\Users\rsxv79\source\repos\EmployeeServices\EmployeeServices\obj\Debug\netcoreapp2.0\EmployeeServices.csproj.CoreCompileInputs.cache
+C:\Users\rsxv79\source\repos\EmployeeServices\EmployeeServices\obj\Debug\netcoreapp2.0\EmployeeServices.AssemblyInfoInputs.cache
+C:\Users\rsxv79\source\repos\EmployeeServices\EmployeeServices\obj\Debug\netcoreapp2.0\EmployeeServices.AssemblyInfo.cs
+C:\Users\rsxv79\source\repos\EmployeeServices\EmployeeServices\obj\Debug\netcoreapp2.0\EmployeeServices.dll
+C:\Users\rsxv79\source\repos\EmployeeServices\EmployeeServices\obj\Debug\netcoreapp2.0\EmployeeServices.pdb
